@@ -1,0 +1,65 @@
+pick pencil
+inventory
+score
+pick tcard
+inventory
+score
+go east
+pick food
+c
+go east
+pick laptop
+inventory
+score
+pick eraser
+inventory
+score
+go south
+go south
+go west
+pick exam info
+inventory
+score
+go west
+pick phone
+inventory
+score
+pick pen
+inventory
+score
+go north
+pick calculator
+inventory
+score
+drop laptop
+inventory
+score
+go south
+go east
+go east
+drop exam info
+inventory
+score
+go north
+go north
+go west
+drop phone
+inventory
+score
+go east
+go south
+drop calculator
+inventory
+score
+drop pencil
+inventory
+score
+drop tcard
+inventory
+score
+drop eraser
+inventory
+score
+drop pen
+inventory
+score

@@ -1,0 +1,62 @@
+LOCATION -1
+0
+Cannot go this way.
+Cannot go this way because this is not a path. Please go back.
+END
+
+LOCATION 1
+14
+This is the front entrance of the campus. The coffee shop is South of here
+As you come near the student center of the campus, you notice something odd. The place is unusually empty.
+There is no one here, and all the restaurants are closed. Although the lights are still on, it makes you uneasy
+to stay here.
+END
+
+LOCATION 2
+13
+This is an empty coffee shop. The front entrance is to the North. The courtyard is to the South
+The coffee shop is completely empty, it seems like the workers are on strike.
+END
+
+LOCATION 3 Courtyard
+20
+The Courtyard. There is a coffee shop to the North. Also Library to the West.
+Outside temperature as low as -10 degree celsius today. However this is the one of the two route to the library.
+END
+
+LOCATION 4
+5
+The library is crowed with people as usual. The courtyard is West, Instructional center is at East.
+The people inside library is studying, trying to fit in as much information as possible before the mid-term.
+There is a stack of paper on the front desk of the library.
+END
+
+LOCATION 5
+10
+Your are here at the Instructional Center's third floor. The library is West, and Exam room is North.
+To be honest, you don't even know why you are here. To waste the time you have for studying for the final exam
+wondering around the campus.
+END
+
+LOCATION 6 Cafeteria
+7
+Weirdly enough, there isn't any chair at the cafe. The front entrance is West, and Guidance council is East.
+Although there aren't any chairs, but you realized there is many people studying on the staircase leading to
+the lecture hall.
+END
+
+LOCATION 7 Guidance council
+16
+You are here contemplating if you should drop the course right now. Exam room is South, and Cafeteria is West.
+There isn't much people at the guidance council, there is a bunch of poster on the wall about how to choose your
+career.
+END
+
+LOCATION 8
+16
+This is the exam room. The Guidance is North, and Instructional center is South.
+Everyone is ready to take their exams, well.... except you. The atmosphere is as tense as every. However you still have
+half of hour left until the exam starts. In order to start the exam, you will need your eraser, pen, pencil,
+calculator to enter the exam. However they were all scattered
+around the campus.
+END

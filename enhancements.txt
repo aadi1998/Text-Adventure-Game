@@ -1,0 +1,5 @@
+The puzzle/enhancement we implemented was that in the cafeteria, the player becomes very hungry, and has to make a
+decision on what to eat, if they makes the wrong choice, they will face some complications and lose the game. If they
+pick the correct option, their hunger will be filled and they will be able to continue the game. If a person does not
+eat anything, they cannot win the game, because they cannot write an exam well on a starving stomach. So to fully win
+you have to eat the correct food. This type of puzzle is a trial and error puzzle.
